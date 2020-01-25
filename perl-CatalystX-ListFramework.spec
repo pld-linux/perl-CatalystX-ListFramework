@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	CatalystX
 %define	pnam	ListFramework
 Summary:	CatalystX::ListFramework - foundations for displaying and editing lists (CRUD) in a Catalyst application
